@@ -1,0 +1,17 @@
+header {
+    background-color: lightgreen;
+    height: 81px;
+    width: 100%;
+}
+.name {
+    padding: 19px;
+}
+.logo {
+    float: left;
+}
+nav {
+    background-color: lightcoral;
+}
+footer {
+    background-color: lightgreen;
+}
